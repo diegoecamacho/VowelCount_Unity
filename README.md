@@ -1,2 +1,2 @@
 # VowelCount_Unity
-Vowel Count, End Boss Programming Test
+Vowel Count, Vowel Counting game using Amazon Web Service lambda
