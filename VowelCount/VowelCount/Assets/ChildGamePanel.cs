@@ -76,7 +76,7 @@ public class ChildGamePanel : UIMenu
 
         playerScore = 0;
 
-        playerInputField = Instantiate(playerInputPrefab, playerInputSpawn).GetComponent<TMP_InputField>();
+        playerInputField = Instantiate(playerInputPrefab, playerInputSpawn).GetComponentInChildren<TMP_InputField>();
 
         playerInputField.onEndEdit.AddListener(OnInputFinalized);
 

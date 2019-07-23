@@ -18,7 +18,7 @@ public class ParentGamePanelController : UIMenu
     {
         namesUIParameters = GetParameters<PlayerNamesUIParameters>();
 
-        parentNameText.text = $"{ namesUIParameters.ParentName } Turn";
+        parentNameText.text = $"{ namesUIParameters.ParentName }'s Turn";
     }
 
     public void LoadChildTurnMenu(UIMenu menu)

@@ -2,16 +2,205 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f19c7e3d-e18e-4f5a-abdc-1f99ca031b87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/ErrorFadePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/Assets/ErrorFadePanel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/Logs/Packages-Update.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Game UI Canvas.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Character Select Scene.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/ChildGamePanel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/ChildGamePanel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Credits Panel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Credits Panel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Game Over Panel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Game Over Panel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Main Menu Panel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Main Menu Panel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/ParentGamePanel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/ParentGamePanel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/.idea/.idea.VowelGuess/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.CognitoIdentity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.CognitoIdentity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.CognitoIdentity.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.CognitoIdentity.dll.mdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.CognitoIdentity.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.CognitoIdentity.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Core.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Core.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game UI Canvas.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Core.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.Core.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Lambda.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.Lambda.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Lambda.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Lambda.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Menus/Character Select Scene.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.Lambda.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.Lambda.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.SecurityToken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.SecurityToken.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.SecurityToken.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.SecurityToken.dll.mdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/AWSSDK/AWSSDK.SecurityToken.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AWSSDK/AWSSDK.SecurityToken.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/ChildGamePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ChildGamePanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/ChildGamePanel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ChildGamePanel.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Components.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Components.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Components/ErrorPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Components/ErrorPanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Components/ErrorPanel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Components/ErrorPanel.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Helpers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Helpers.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Helpers/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Helpers/Singleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Helpers/Singleton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Helpers/Singleton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/CharacterSelectionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/CharacterSelectionController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/CharacterSelectionController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/CharacterSelectionController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/CreditsMenuController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/CreditsMenuController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/CreditsMenuController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/CreditsMenuController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/MainMenuController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/MainMenuController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/MainMenuController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/MainMenuController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/ParentGamePanelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/ParentGamePanelController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/ParentGamePanelController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/ParentGamePanelController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/PlayerNamesUIParameters.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/PlayerNamesUIParameters.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/PlayerNamesUIParameters.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/PlayerNamesUIParameters.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/UIMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/UIMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/UIMenu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/UIMenu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/White_Cicler.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/White_Cicler.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/Menus/White_Cicler.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Menus/White_Cicler.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/UIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/UIController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Code/Scripts/UIController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/UIController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Editor/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Editor/Scripts/UnityEditorTools.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Scripts/UnityEditorTools.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Editor/Scripts/UnityEditorTools.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Scripts/UnityEditorTools.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/ErrorFadePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ErrorFadePanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/ErrorFadePanel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ErrorFadePanel.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/LambdaExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/LambdaExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/LambdaExample.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/LambdaExample.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/LambdaExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/LambdaExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/License.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Examples/readme.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/GameOverMenuController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameOverMenuController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/GameOverMenuController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameOverMenuController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/PhrasePanelScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhrasePanelScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/PhrasePanelScript.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PhrasePanelScript.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Android/AndroidManifest.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Android/libsqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Android/libsqlite3.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/libsqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/libsqlite3.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/x86_64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/x86_64/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Plugins/x86_64/sqlite3.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Prefabs/Error Panel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Error Panel.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Prefabs/Error Panel.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Error Panel.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Prefabs/Parent Input Field.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Parent Input Field.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Prefabs/Parent Input Field.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Parent Input Field.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game Scene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Documentation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Logs/Packages-Update.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/NetworkManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VowelGuess/ProjectSettings/XRSettings.asset" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +209,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
+            <state relative-caret-position="2484">
               <caret line="92" selection-start-line="92" selection-end-line="92" />
               <folding>
                 <marker date="1550102766000" expanded="true" signature="0:146" ph="/* Simplified SDF shader: ... */" />
@@ -40,27 +229,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ChildGamePanel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1333">
-              <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+            <state relative-caret-position="681">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding>
-                <marker date="1563891497301" expanded="false" signature="0:108" ph="##region" />
-                <marker date="1563891497301" expanded="false" signature="15:96" ph="..." />
-                <marker date="1563891497301" expanded="true" signature="158:272" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="230:270" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="310:3385" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="1345:1716" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="1757:2307" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="1799:1984" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="2334:2625" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="2406:2462" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="2673:3021" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="2723:2891" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="2904:3006" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="3057:3105" ph="{...}" />
-                <marker date="1563891497301" expanded="true" signature="3175:3383" ph="{...}" />
+                <marker date="1563895277216" expanded="false" signature="0:108" ph="##region" />
+                <marker date="1563895277216" expanded="false" signature="15:96" ph="..." />
+                <marker date="1563895277216" expanded="true" signature="158:272" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="230:270" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="310:3809" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="1510:1990" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="2030:2088" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="2129:2679" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="2171:2356" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="2706:2997" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="2778:2834" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="3045:3445" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="3095:3315" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="3328:3430" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="3481:3529" ph="{...}" />
+                <marker date="1563895277216" expanded="true" signature="3599:3807" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -69,8 +259,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Menus/ParentGamePanelController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="29" column="38" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="38" />
+            <state relative-caret-position="864">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
               <folding>
                 <marker date="1563892727962" expanded="false" signature="6:91" ph="..." />
                 <marker date="1563892727962" expanded="true" signature="140:1098" ph="{...}" />
@@ -87,7 +277,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ErrorFadePanel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
+            <state relative-caret-position="351">
               <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
               <folding>
                 <marker date="1563885530000" expanded="false" signature="7:96" ph="..." />
@@ -100,11 +290,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PhrasePanelScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="793">
-              <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
               <folding>
                 <marker date="1563893813854" expanded="false" signature="0:112" ph="##region" />
                 <marker date="1563893813854" expanded="true" signature="15:100" ph="..." />
@@ -119,7 +309,47 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GameOverMenuController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <folding>
+                <marker date="1563846727000" expanded="true" signature="6:91" ph="..." />
+                <marker date="1563846727000" expanded="true" signature="137:447" ph="{...}" />
+                <marker date="1563846727000" expanded="true" signature="297:445" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/UIController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="897">
+              <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+              <folding>
+                <marker date="1563844920000" expanded="false" signature="0:39" ph="##region" />
+                <marker date="1563844920000" expanded="true" signature="41:125" ph="/// Controls all child UI's in the scene. ... " />
+                <marker date="1563844920000" expanded="true" signature="177:1415" ph="{...}" />
+                <marker date="1563844920000" expanded="true" signature="318:634" ph="{...}" />
+                <marker date="1563844920000" expanded="true" signature="673:714" ph="{...}" />
+                <marker date="1563844920000" expanded="true" signature="720:815" ph="/// Loads Next UI Menu ... " />
+                <marker date="1563844920000" expanded="true" signature="892:1413" ph="{...}" />
+                <marker date="1563844920000" expanded="true" signature="924:1017" ph="{...}" />
+                <marker date="1563844920000" expanded="true" signature="1050:1160" ph="{...}" />
+                <marker date="1563844920000" expanded="true" signature="1284:1352" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>playerScore</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -128,15 +358,17 @@
     <setting file="file://$PROJECT_DIR$/Assets/ChildGamePanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ErrorFadePanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/UIController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Menus/ParentGamePanelController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PhrasePanelScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameOverMenuController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/ChildGamePanel.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/Scripts/Menus/ParentGamePanelController.cs" />
         <option value="$PROJECT_DIR$/Assets/PhrasePanelScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChildGamePanel.cs" />
       </list>
     </option>
   </component>
@@ -159,6 +391,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -166,7 +399,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -199,10 +431,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="30280">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="23400">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="30280" />
+      <option name="pid" value="23400" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -218,11 +450,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563889938054</updated>
       <workItem from="1563889939766" duration="3949000" />
+      <workItem from="1563894189301" duration="1687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3949000" />
+    <option name="totallyTimeSpent" value="5636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,7 +485,7 @@
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" auto_hide="true" id="TODO" order="12" sideWeight="0.51015604" side_tool="true" weight="0.25692308" />
       <window_info anchor="bottom" id="Performance Profiler" order="13" sideWeight="0.50044155" side_tool="true" weight="0.2576923" />
-      <window_info anchor="bottom" x="3534" y="791" width="3171" height="694" id="Debug" order="14" sideWeight="0.37777779" type="WINDOWED" weight="0.34128878" />
+      <window_info active="true" anchor="bottom" x="3667" y="527" width="3171" height="694" id="Debug" order="14" sideWeight="0.37777779" type="WINDOWED" visible="true" weight="0.34128878" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32936507" />
       <window_info anchor="bottom" auto_hide="true" x="1228" y="322" width="1438" height="374" id="Version Control" order="16" sideWeight="0.49926406" side_tool="true" type="FLOATING" weight="0.22590594" />
       <window_info active="true" anchor="bottom" id="Find" order="17" sideWeight="0.489844" visible="true" weight="0.25692308" />
@@ -260,7 +493,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.1939947" />
-      <window_info anchor="right" content_ui="combo" x="1426" y="403" width="250" height="601" id="Project" order="4" sideWeight="0.571" side_tool="true" type="WINDOWED" visible="true" weight="0.14041802" />
+      <window_info anchor="right" content_ui="combo" x="1426" y="403" width="250" height="601" id="Project" order="4" sideWeight="0.571" side_tool="true" type="WINDOWED" weight="0.14041802" />
       <window_info anchor="right" x="1273" y="1995" width="1055" height="596" id="Unity" order="5" sideWeight="0.49955845" side_tool="true" type="WINDOWED" weight="0.4374448" />
       <window_info anchor="right" id="Unit Tests" order="6" sideWeight="0.49926406" weight="0.16190757" />
       <window_info anchor="right" id="IL Viewer" order="7" visible="true" weight="0.32999706" />
@@ -323,13 +556,52 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/GameOverMenuController.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/GameOverMenuController.cs" initialLine="13">
+            <startOffsets>
+              <option value="309" />
+            </startOffsets>
+            <endOffsets>
+              <option value="370" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/ChildGamePanel.cs</url>
+          <line>96</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/ChildGamePanel.cs" initialLine="78">
+            <startOffsets>
+              <option value="2194" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2257" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/ChildGamePanel.cs</url>
+          <line>71</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/ChildGamePanel.cs" initialLine="60">
+            <startOffsets>
+              <option value="1525" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1589" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
+        <state relative-caret-position="2484">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
           <folding>
             <marker date="1550102766000" expanded="true" signature="0:146" ph="/* Simplified SDF shader: ... */" />
@@ -346,7 +618,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ErrorFadePanel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="351">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <marker date="1563885530000" expanded="false" signature="7:96" ph="..." />
@@ -358,34 +630,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ChildGamePanel.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/PhrasePanelScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1333">
-          <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+        <state relative-caret-position="793">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
           <folding>
-            <marker date="1563891497301" expanded="false" signature="0:108" ph="##region" />
-            <marker date="1563891497301" expanded="false" signature="15:96" ph="..." />
-            <marker date="1563891497301" expanded="true" signature="158:272" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="230:270" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="310:3385" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="1345:1716" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="1757:2307" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="1799:1984" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="2334:2625" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="2406:2462" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="2673:3021" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="2723:2891" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="2904:3006" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="3057:3105" ph="{...}" />
-            <marker date="1563891497301" expanded="true" signature="3175:3383" ph="{...}" />
+            <marker date="1563893813854" expanded="false" signature="0:112" ph="##region" />
+            <marker date="1563893813854" expanded="true" signature="15:100" ph="..." />
+            <marker date="1563893813854" expanded="true" signature="160:1519" ph="{...}" />
+            <marker date="1563893813854" expanded="true" signature="409:449" ph="{...}" />
+            <marker date="1563893813854" expanded="true" signature="490:713" ph="{...}" />
+            <marker date="1563893813854" expanded="true" signature="749:1100" ph="{...}" />
+            <marker date="1563893813854" expanded="true" signature="1131:1191" ph="{...}" />
+            <marker date="1563893813854" expanded="true" signature="1231:1517" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/UIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding>
+            <marker date="1563844920000" expanded="false" signature="0:39" ph="##region" />
+            <marker date="1563844920000" expanded="true" signature="41:125" ph="/// Controls all child UI's in the scene. ... " />
+            <marker date="1563844920000" expanded="true" signature="177:1415" ph="{...}" />
+            <marker date="1563844920000" expanded="true" signature="318:634" ph="{...}" />
+            <marker date="1563844920000" expanded="true" signature="673:714" ph="{...}" />
+            <marker date="1563844920000" expanded="true" signature="720:815" ph="/// Loads Next UI Menu ... " />
+            <marker date="1563844920000" expanded="true" signature="892:1413" ph="{...}" />
+            <marker date="1563844920000" expanded="true" signature="924:1017" ph="{...}" />
+            <marker date="1563844920000" expanded="true" signature="1050:1160" ph="{...}" />
+            <marker date="1563844920000" expanded="true" signature="1284:1352" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Menus/ParentGamePanelController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="29" column="38" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="38" />
+        <state relative-caret-position="864">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
           <folding>
             <marker date="1563892727962" expanded="false" signature="6:91" ph="..." />
             <marker date="1563892727962" expanded="true" signature="140:1098" ph="{...}" />
@@ -398,19 +682,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PhrasePanelScript.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/GameOverMenuController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        <state relative-caret-position="351">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
-            <marker date="1563893813854" expanded="false" signature="0:112" ph="##region" />
-            <marker date="1563893813854" expanded="true" signature="15:100" ph="..." />
-            <marker date="1563893813854" expanded="true" signature="160:1519" ph="{...}" />
-            <marker date="1563893813854" expanded="true" signature="409:449" ph="{...}" />
-            <marker date="1563893813854" expanded="true" signature="490:713" ph="{...}" />
-            <marker date="1563893813854" expanded="true" signature="749:1100" ph="{...}" />
-            <marker date="1563893813854" expanded="true" signature="1131:1191" ph="{...}" />
-            <marker date="1563893813854" expanded="true" signature="1231:1517" ph="{...}" />
+            <marker date="1563846727000" expanded="true" signature="6:91" ph="..." />
+            <marker date="1563846727000" expanded="true" signature="137:447" ph="{...}" />
+            <marker date="1563846727000" expanded="true" signature="297:445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ChildGamePanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding>
+            <marker date="1563895277216" expanded="false" signature="0:108" ph="##region" />
+            <marker date="1563895277216" expanded="false" signature="15:96" ph="..." />
+            <marker date="1563895277216" expanded="true" signature="158:272" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="230:270" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="310:3809" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="1510:1990" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="2030:2088" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="2129:2679" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="2171:2356" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="2706:2997" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="2778:2834" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="3045:3445" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="3095:3315" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="3328:3430" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="3481:3529" ph="{...}" />
+            <marker date="1563895277216" expanded="true" signature="3599:3807" ph="{...}" />
           </folding>
         </state>
       </provider>
